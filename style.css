@@ -7,6 +7,8 @@
         --cor -botao:#f9f9f9
 }
 .tema-escuro{
+        color:var(--cor-secudaria);
+}
 --cor-primaria:#A6CEFE;
         --cor-sercundaria:#98caff;
         --cor-fundo:#0f172a;
