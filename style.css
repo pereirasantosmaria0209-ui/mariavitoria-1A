@@ -8,6 +8,8 @@
 }
 .tema-escuro{
         color:var(--cor-secudaria);
+.tema-escuro p{
+        color:var(--cor-texto);
 }
 --cor-primaria:#A6CEFE;
         --cor-sercundaria:#98caff;
