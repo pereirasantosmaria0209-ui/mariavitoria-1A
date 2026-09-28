@@ -12,7 +12,7 @@
         --cor -texto:#ffffff;
         --cor-contraste:#1e293b;
         --cor -botao:#151428;
-tema-escuro{
+.tema-escuro{
         color:var(--cor-secudaria);
 .tema-escuro p{
         color:var(--cor-texto);
