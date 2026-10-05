@@ -12,3 +12,6 @@
    });
     const btnTemaEscuro=document.querySelector(".btn-tema-escuro");
     bntTemaEscuro.addEventlistener("click,mudaTema);
+function mudaTema() {
+ const corpoPagina= document.body;
+ if(corpoPagina.classList.contains
