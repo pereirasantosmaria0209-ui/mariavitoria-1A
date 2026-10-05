@@ -14,4 +14,10 @@
     bntTemaEscuro.addEventlistener("click,mudaTema);
 function mudaTema() {
  const corpoPagina= document.body;
- if(corpoPagina.classList.contains
+ if(corpoPagina.classList.contains("tema-escuro")){
+  corpoPagina.classlist.remove("tema-escuro");
+ } else{
+  corpoPagina.classlist.add("tema-escuro");
+ }
+
+}
