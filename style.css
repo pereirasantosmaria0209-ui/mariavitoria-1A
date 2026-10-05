@@ -19,6 +19,8 @@
         color:var(--cor-texto);
 }
         .bnt-tema-escuro{
+        background-color: var(--cor-secudaria);
+        }
            position:fixed;
            bottom: 16px
            right: 16px
